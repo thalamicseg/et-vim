@@ -1,3 +1,3 @@
 # et-vim
 
-The template is based on 14 subjects created with buildtemplateparallel.sh from ANTS from the Stanford ET-FUS study 
+The group template is based on 14 ET subjects created from the Stanford ET-FUS study with buildtemplateparallel.sh in ANTs.
